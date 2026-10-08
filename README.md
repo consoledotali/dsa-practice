@@ -1,13 +1,15 @@
 # DSA Practice
 
-NeetCode roadmap — JavaScript. 30-minute rule: pehle khud try, phir video, phir memory se rewrite.
+NeetCode roadmap — JavaScript. 30-minute rule: attempt solo first, then watch the solution, then rewrite from memory.
+
+(TBD — Arrays & Hashing ke baad) → (TBD — after Arrays & Hashing)
 
 ## Progress
 
 ### Arrays & Hashing
 
 - [x] 1.  Contains Duplicate
-- [ ] 2.  Valid Anagram
+- [x] 2.  Valid Anagram
 - [ ] 3.  Two Sum
 - [ ] 4.  Group Anagrams
 - [ ] 5.  Top K Frequent Elements
