@@ -11,7 +11,7 @@ NeetCode roadmap — JavaScript. 30-minute rule: attempt solo first, then watch 
 - [x] 1.  Contains Duplicate
 - [x] 2.  Valid Anagram
 - [x] 3.  Two Sum
-- [ ] 4.  Group Anagrams
+- [x] 4.  Group Anagrams
 - [ ] 5.  Top K Frequent Elements
 - [ ] 6.  Product of Array Except Self
 - [ ] 7.  Valid Sudoku
