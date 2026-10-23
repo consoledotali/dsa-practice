@@ -13,7 +13,7 @@ NeetCode roadmap — JavaScript. 30-minute rule: attempt solo first, then watch 
 - [x] 3.  Two Sum
 - [x] 4.  Group Anagrams
 - [x] 5.  Top K Frequent Elements
-- [ ] 6.  Product of Array Except Self
+- [x] 6.  Product of Array Except Self
 - [ ] 7.  Valid Sudoku
 - [ ] 8.  Encode and Decode Strings
 - [ ] 9.  Longest Consecutive Sequence
